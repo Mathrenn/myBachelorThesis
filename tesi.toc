@@ -1,0 +1,74 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}Process Mining}{1}%
+\contentsline {section}{\numberline {1.1}Cenni Storici}{1}%
+\contentsline {section}{\numberline {1.2}Processo Aziendale}{2}%
+\contentsline {section}{\numberline {1.3}Process Mining}{2}%
+\contentsline {subsection}{\numberline {1.3.1}Event Log}{3}%
+\contentsline {subsubsection}{Next-Activity Prediction}{3}%
+\contentsline {chapter}{\numberline {2}Apprendimento Automatico}{4}%
+\contentsline {section}{\numberline {2.1}Intelligenza Artificiale}{4}%
+\contentsline {subsubsection}{Knowledge Base Systems}{4}%
+\contentsline {section}{\numberline {2.2}Machine Learning}{5}%
+\contentsline {subsection}{\numberline {2.2.1}Representation Learning}{5}%
+\contentsline {subsection}{\numberline {2.2.2}Struttura di un Algoritmo di Machine Learning}{6}%
+\contentsline {subsubsection}{Dataset}{6}%
+\contentsline {subsubsection}{Funzione Costo e Ottimizzazione}{7}%
+\contentsline {subsubsection}{Modello}{8}%
+\contentsline {subsection}{\numberline {2.2.3}Regularization}{9}%
+\contentsline {subsection}{\numberline {2.2.4}Principio di Massima Verosimiglianza}{10}%
+\contentsline {section}{\numberline {2.3}Deep Learning}{11}%
+\contentsline {subsection}{\numberline {2.3.1}Multi-Layer Perceptron}{11}%
+\contentsline {subsection}{\numberline {2.3.2}Funzioni d'attivazione}{11}%
+\contentsline {subsection}{\numberline {2.3.3}Unit\`a lineari}{12}%
+\contentsline {subsection}{\numberline {2.3.4}Funzione Softmax}{12}%
+\contentsline {subsection}{\numberline {2.3.5}Forward e Back-Propagation}{13}%
+\contentsline {subsubsection}{Regola della Catena}{13}%
+\contentsline {subsection}{\numberline {2.3.6}Algoritmi di ottimizzazione}{14}%
+\contentsline {subsubsection}{Metodo del momento}{14}%
+\contentsline {subsubsection}{Adaptive Learning Rate}{15}%
+\contentsline {subsubsection}{Adam}{15}%
+\contentsline {section}{\numberline {2.4}Convolutional Neural Networks}{17}%
+\contentsline {subsection}{\numberline {2.4.1}L'operazione di Convoluzione}{17}%
+\contentsline {subsection}{\numberline {2.4.2}Interazioni Sparse}{18}%
+\contentsline {subsection}{\numberline {2.4.3}Condivisione dei Parametri}{19}%
+\contentsline {subsection}{\numberline {2.4.4}Rappresentazioni Equivarianti}{19}%
+\contentsline {subsection}{\numberline {2.4.5}Pooling}{19}%
+\contentsline {subsection}{\numberline {2.4.6}Varianti della funzione di convoluzione}{20}%
+\contentsline {subsection}{\numberline {2.4.7}Padding}{21}%
+\contentsline {subsubsection}{Valid Convolution Padding}{21}%
+\contentsline {subsubsection}{Same Convolution Padding}{21}%
+\contentsline {subsubsection}{Full Convolution Padding}{21}%
+\contentsline {section}{\numberline {2.5}Recurrent Neural Networks}{22}%
+\contentsline {subsection}{\numberline {2.5.1}Grafi d'Elaborazione Ricorrenti}{22}%
+\contentsline {subsection}{\numberline {2.5.2}Reti Neurali Ricorrenti}{23}%
+\contentsline {subsection}{\numberline {2.5.3}Problema della Scomparsa del Gradiente}{24}%
+\contentsline {subsection}{\numberline {2.5.4}Gated RNNs}{26}%
+\contentsline {subsubsection}{Long Short-Term Memory}{26}%
+\contentsline {subsubsection}{Gated Recurrent Units}{27}%
+\contentsline {section}{\numberline {2.6}Reti Neurali e Process Mining}{28}%
+\contentsline {chapter}{\numberline {3}Stato dell'arte}{29}%
+\contentsline {section}{\numberline {3.1}Inception Networks}{29}%
+\contentsline {section}{\numberline {3.2}Deformable Convolutions}{31}%
+\contentsline {subsection}{\numberline {3.2.1}Introduzione}{31}%
+\contentsline {subsection}{\numberline {3.2.2}Convoluzione Deformabile}{31}%
+\contentsline {subsection}{\numberline {3.2.3}Reti Deformabili}{32}%
+\contentsline {chapter}{\numberline {4}Soluzione adottata}{33}%
+\contentsline {section}{\numberline {4.1}Next-Activity Prediction}{33}%
+\contentsline {subsection}{\numberline {4.1.1}Introduzione}{33}%
+\contentsline {subsection}{\numberline {4.1.2}Formulazione del compito}{34}%
+\contentsline {subsection}{\numberline {4.1.3}Rappresentazione delle Feature}{34}%
+\contentsline {section}{\numberline {4.2}Deformable ConvNet 1D}{35}%
+\contentsline {subsubsection}{Tassellatura regolare e offset}{35}%
+\contentsline {subsection}{\numberline {4.2.1}Implementazione}{35}%
+\contentsline {section}{\numberline {4.3}Masked ConvNet}{37}%
+\contentsline {subsection}{\numberline {4.3.1}Implementazione}{37}%
+\contentsline {section}{\numberline {4.4}Dettagli Architetturali}{38}%
+\contentsline {section}{\numberline {4.5}Software e Hardware utilizzati}{39}%
+\contentsline {section}{\numberline {4.6}Conclusioni}{41}%
+\contentsline {subsection}{\numberline {4.6.1}Risultati a confronto}{41}%
+\contentsline {subsection}{\numberline {4.6.2}Sviluppi Futuri}{42}%
+\contentsline {subsection}{\numberline {4.6.3}Riepilogo}{42}%
+\contentsline {chapter}{\numberline {A}Codice}{46}%
+\contentsline {section}{\numberline {A.1}DeformableConv1D}{46}%
+\contentsline {section}{\numberline {A.2}MaskedConv1D}{48}%

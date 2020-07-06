@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+
+\bibitem{smith1827inquiry}
+A.~Smith, {\em An Inquiry Into the Nature and Causes of the Wealth of Nations}.
+\newblock Goldsmiths'-Kress library of economic literature, Printed at the
+  University Press for T. Nelson and P. Brown, 1827.
+
+\bibitem{business-process-handbook}
+M.~v. Rosing and A.-W. Scheer, {\em The Complete Business Process Handbook,
+  Volume 1 - Body of Knowledge from Process Modeling to BPM}, vol.~1.
+\newblock Morgan Kaufmann, 03 2015.
+
+\bibitem{principlesscimanagement}
+F.~W. Taylor, {\em The Principles of Scientific Management}.
+\newblock Harper \& Brothers, 1911.
+
+\bibitem{davenport1993process}
+T.~Davenport, {\em Process Innovation: Reengineering Work Through Information
+  Technology}.
+\newblock Harvard Business Review Press, 1993.
+
+\bibitem{rummler1990improving}
+G.~Rummler and A.~Brache, {\em Improving performance: how to manage the white
+  space on the organization chart}.
+\newblock Management Series, Jossey-Bass Publishers, 1990.
+
+\bibitem{iso9001}
+{ISO Central Secretary}, ``Quality management systems — requirements,''
+  Standard ISO TR 9001:2015, International Organization for Standardization,
+  2015.
+
+\bibitem{shankararaman2012business}
+V.~Shankararaman, {\em Business Enterprise, Process, and Technology Management:
+  Models and Applications: Models and Applications}.
+\newblock Business Science Reference, 2012.
+
+\bibitem{10.1007/978-3-642-28108-2_19}
+W.~van~der Aalst, A.~Adriansyah, A.~K.~A. de~Medeiros, F.~Arcieri, T.~Baier,
+  T.~Blickle, J.~C. Bose, P.~van~den Brand, R.~Brandtjen, J.~Buijs,
+  A.~Burattin, J.~Carmona, M.~Castellanos, J.~Claes, J.~Cook, N.~Costantini,
+  F.~Curbera, E.~Damiani, M.~de~Leoni, P.~Delias, B.~F. van Dongen, M.~Dumas,
+  S.~Dustdar, D.~Fahland, D.~R. Ferreira, W.~Gaaloul, F.~van Geffen, S.~Goel,
+  C.~G{\"u}nther, A.~Guzzo, P.~Harmon, A.~ter Hofstede, J.~Hoogland, J.~E.
+  Ingvaldsen, K.~Kato, R.~Kuhn, A.~Kumar, M.~La~Rosa, F.~Maggi, D.~Malerba,
+  R.~S. Mans, A.~Manuel, M.~McCreesh, P.~Mello, J.~Mendling, M.~Montali, H.~R.
+  Motahari-Nezhad, M.~zur Muehlen, J.~Munoz-Gama, L.~Pontieri, J.~Ribeiro,
+  A.~Rozinat, H.~Seguel~P{\'e}rez, R.~Seguel~P{\'e}rez, M.~Sep{\'u}lveda,
+  J.~Sinur, P.~Soffer, M.~Song, A.~Sperduti, G.~Stilo, C.~Stoel, K.~Swenson,
+  M.~Talamo, W.~Tan, C.~Turner, J.~Vanthienen, G.~Varvaressos, E.~Verbeek,
+  M.~Verdonk, R.~Vigo, J.~Wang, B.~Weber, M.~Weidlich, T.~Weijters, L.~Wen,
+  M.~Westergaard, and M.~Wynn, ``Process mining manifesto,'' in {\em Business
+  Process Management Workshops} (F.~Daniel, K.~Barkaoui, and S.~Dustdar, eds.),
+  (Berlin, Heidelberg), pp.~169--194, Springer Berlin Heidelberg, 2012.
+
+\bibitem{Goodfellow-et-al-2016}
+I.~Goodfellow, Y.~Bengio, and A.~Courville, {\em Deep Learning}.
+\newblock MIT Press, 2016.
+
+\bibitem{Lenat:1989:BLK:575523}
+D.~B. Lenat and R.~V. Guha, {\em Building Large Knowledge-Based Systems;
+  Representation and Inference in the Cyc Project}.
+\newblock Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc.,
+  1st~ed., 1989.
+
+\bibitem{gradientdescent}
+A.~Cauchy, ``Méthode générale pour la résolution des systemes
+  d’équations simultanées,'' 1847.
+
+\bibitem{Rumelhart1986}
+D.~E. Rumelhart, G.~E. Hinton, and R.~J. Williams, ``Learning representations
+  by back-propagating errors,'' {\em Nature}, vol.~323, no.~6088, pp.~533--536,
+  1986.
+
+\bibitem{momentum}
+B.~Polyak, ``Some methods of speeding up the convergence of iteration
+  methods,'' {\em Ussr Computational Mathematics and Mathematical Physics},
+  vol.~4, pp.~1--17, 12 1964.
+
+\bibitem{schaul-et-al-2013}
+T.~Schaul, I.~Antonoglou, and D.~Silver, ``Unit tests for stochastic
+  optimization,'' 2013.
+
+\bibitem{kingma2014adam}
+D.~P. Kingma and J.~Ba, ``Adam: A method for stochastic optimization,'' 2014.
+
+\bibitem{doi:10.1162/neco.1989.1.4.541}
+Y.~LeCun, B.~Boser, J.~S. Denker, D.~Henderson, R.~E. Howard, W.~Hubbard, and
+  L.~D. Jackel, ``Backpropagation applied to handwritten zip code
+  recognition,'' {\em Neural Computation}, vol.~1, no.~4, pp.~541--551, 1989.
+
+\bibitem{lstm}
+S.~Hochreiter and J.~Schmidhuber, ``Long short-term memory,'' {\em Neural
+  computation}, vol.~9, pp.~1735--80, 12 1997.
+
+\bibitem{gru}
+K.~Cho, B.~van Merrienboer, C.~Gulcehre, D.~Bahdanau, F.~Bougares, H.~Schwenk,
+  and Y.~Bengio, ``Learning phrase representations using rnn encoder–decoder
+  for statistical machine translation,'' {\em Proceedings of the 2014
+  Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  2014.
+
+\bibitem{Lecun-et-al-2000}
+Y.~LeCun, P.~Haffner, L.~Bottou, and Y.~Bengio, {\em Object Recognition with
+  Gradient-Based Learning}, pp.~319--345.
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg, 1999.
+
+\bibitem{DBLP:journals/corr/SzegedyLJSRAEVR14}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~E. Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich, ``Going deeper with convolutions,'' {\em
+  CoRR}, vol.~abs/1409.4842, 2014.
+
+\bibitem{10.1007/978-3-030-35166-3_25}
+N.~Di~Mauro, A.~Appice, and T.~M.~A. Basile, ``Activity prediction of business
+  process instances with inception cnn models,'' in {\em AI*IA 2019 -- Advances
+  in Artificial Intelligence} (M.~Alviano, G.~Greco, and F.~Scarcello, eds.),
+  (Cham), pp.~348--361, Springer International Publishing, 2019.
+
+\bibitem{DBLP:journals/corr/DaiQXLZHW17}
+J.~Dai, H.~Qi, Y.~Xiong, Y.~Li, G.~Zhang, H.~Hu, and Y.~Wei, ``Deformable
+  convolutional networks,'' {\em CoRR}, vol.~abs/1703.06211, 2017.
+
+\bibitem{pred-bpm-lstm}
+N.~Tax, I.~Verenich, M.~La~Rosa, and M.~Dumas, ``Predictive business process
+  monitoring with lstm neural networks,'' {\em Lecture Notes in Computer
+  Science}, p.~477–492, 2017.
+
+\bibitem{luo2017understanding}
+W.~Luo, Y.~Li, R.~Urtasun, and R.~Zemel, ``Understanding the effective
+  receptive field in deep convolutional neural networks,'' 2017.
+
+\end{thebibliography}
